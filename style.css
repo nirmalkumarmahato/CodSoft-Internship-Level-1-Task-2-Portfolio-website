@@ -185,6 +185,7 @@ nav {
 }
 .card a{
   color:#e0e0e0;
+  text-decoration: none;
 }
 .card:hover {
   transform: translateY(-8px);
